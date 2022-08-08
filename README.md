@@ -52,6 +52,9 @@ Seguir os passos do console.
 - Comandos
 * Gerar o arquivo requeriments: pip freeze > requirements.txt
 
+* Fazer o deploy
+pip install django-heroku
+
 Comandos inclusos no requirements:
 < ------------------------------------->
 * Instalar Django: pip install django
